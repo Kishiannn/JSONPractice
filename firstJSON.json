@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Kishiannn",
+        "age": 21,
+        "course": "BSIT Student",
+        "isProgrammer": true
+    },
+    {
+        "name": "Kurt",
+        "age": 20,
+        "course": "BSAM Student",
+        "isProgrammer": false
+    }
+]

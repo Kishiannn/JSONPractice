@@ -1,0 +1,60 @@
+[
+    {
+        "studentId": 1,
+        "studentName": "Zack Lee",
+        "age": 21,
+        "gradeLevel": "Second Year High School",
+        "subjects":
+        [
+            {
+                "subjectName": "English",
+                "teacherName": "Sir Gamin Yoo",
+                "grades": 
+                    {
+                        "prelim": 80,
+                        "midterm": 89,
+                        "finals": 85
+                    }
+            },
+            {
+                "subjectName": "Math",
+                "teacherName": "Sir Einstein",
+                "grades": 
+                    {
+                        "prelim": 78,
+                        "midterm": 79,
+                        "finals": 75
+                    }
+            }
+        ]
+    },
+    {
+        "studentId": 2,
+        "studentName": "Nezuko-Chan",
+        "age": 19,
+        "gradeLevel": "First Year High School",
+        "subjects":
+        [
+            {
+                "subjectName": "English",
+                "teacherName": "Sir Gamin Yoo",
+                "grades": 
+                    {
+                        "prelim": 90,
+                        "midterm": 95,
+                        "finals": 92
+                    }
+            },
+            {
+                "subjectName": "Programming",
+                "teacherName": "Sir Jin Tae-Jin",
+                "grades": 
+                    {
+                        "prelim": 97,
+                        "midterm": 94,
+                        "finals": 99
+                    }
+            }
+        ]
+    }
+]

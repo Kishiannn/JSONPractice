@@ -1,0 +1,22 @@
+[
+    {
+        "myName": "Kishiannn",
+        "myAge": "21 years old",
+        "myFriend": [
+                {
+                    "friend": 1,
+                    "friendName": "Sung Jin Woo",
+                    "friendAge": "20 years old"
+                },
+                {
+                    "friend": 2,
+                    "friendName": "Jin Mori-Jin",
+                    "friendAge": "21 years old"
+                },
+                {
+                    "friend": 3,
+                    "friendName": "Daniel Park",
+                    "friendAge": "19 years old"
+                }]
+    }
+]
